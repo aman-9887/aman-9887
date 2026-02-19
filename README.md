@@ -68,7 +68,15 @@
 
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=amankumar3927828&theme=dark)
+<p align="center">
+
+<!-- LIGHT MODE -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/amankumar3927828?theme=light&font=Inter#gh-light-mode-only)
+
+<!-- DARK MODE -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/amankumar3927828?theme=dark&font=Inter#gh-dark-mode-only)
+
+</p>
 
 
 ---
