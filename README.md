@@ -113,5 +113,6 @@ Explore my projects, skills and development journey in detail.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f5f5f7,50:e5e5ea,100:f5f5f7&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f5f5f7,100:e5e5ea&height=100&section=footer" width="100%" />
+
 
