@@ -1,5 +1,5 @@
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f5f5f7,100:e5e5ea&height=140&section=header&text=Aman%20Kumar%20Thakur&fontSize=36&fontColor=1d1d1f" width="100%" />
+<!-- ========= HEADER ========= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f5f5f7,100:e5e5ea&height=160&section=header&text=Aman%20Kumar%20Thakur&fontSize=40&fontColor=1d1d1f" width="100%" />
 
 <h3 align="center">Software Developer · 2025 Graduate · Fresher</h3>
 
@@ -7,15 +7,20 @@
 <img src="https://img.shields.io/badge/Open%20to%20Work-1d1d1f?style=for-the-badge&logo=handshake&logoColor=white"/>
 </p>
 
+<p align="center">
+Profile Visitors<br>
+<img src="https://komarev.com/ghpvc/?username=aman-9887&style=for-the-badge&color=1d1d1f"/>
+</p>
+
 ---
 
 ## ✨ About Me
 
 - 🎓 B.Tech Computer Science Graduate (2025)  
-- 💼 Actively seeking Software Developer roles  
-- 💻 Full-stack development enthusiast  
-- 🧠 Strong in OOPs & DBMS  
-- 🚀 Building real-world scalable applications  
+- 💼 Actively seeking Software Developer opportunities  
+- 💻 Passionate about full-stack development  
+- 🧠 Strong in OOPs, DBMS & problem solving  
+- 🚀 Focused on building real-world scalable applications  
 
 ---
 
@@ -41,8 +46,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" />
 
 **Tools**  
-<img src="https://skillicons.dev/icons?i=github,vscode,vercel&theme=light" />
-<img src="https://skillicons.dev/icons?i=render&theme=light" />
+<img src="https://skillicons.dev/icons?i=github,vscode,vercel,render&theme=light" />
 
 ---
 
@@ -51,6 +55,18 @@
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aman-9887&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=1d1d1f)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aman-9887&layout=compact&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=1d1d1f)
+
+---
+
+## 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=aman-9887&theme=flat&no-frame=true&row=1&column=7"/>
+
+---
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aman-9887&bg_color=f5f5f7&color=1d1d1f&line=1d1d1f&point=1d1d1f&hide_border=true"/>
 
 ---
 
@@ -90,5 +106,5 @@
 
 ---
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e5e5ea,100:f5f5f7&height=100&section=footer" width="100%" />
+<!-- ========= FOOTER ========= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e5e5ea,100:f5f5f7&height=120&section=footer" width="100%" />
