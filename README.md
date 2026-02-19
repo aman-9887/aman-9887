@@ -69,7 +69,9 @@
 <a href="https://github.com/aman-9887/Gamified-Habbit-Tracker">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aman-9887&repo=Gamified-Habbit-Tracker&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=1d1d1f"/>
 </a>
+</p>
 
+<p align="center">
 <a href="https://github.com/aman-9887/Food-Ordering-Frontend">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aman-9887&repo=Food-Ordering-Frontend&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=1d1d1f"/>
 </a>
