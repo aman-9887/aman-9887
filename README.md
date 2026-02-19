@@ -68,8 +68,7 @@
 
 ## 🧠 LeetCode Stats
 
-![LeetCode Light](https://leetcard.jacoblin.cool/amankumar3927828?theme=light#gh-light-mode-only)
-![LeetCode Dark](https://leetcard.jacoblin.cool/amankumar3927828?theme=dark#gh-dark-mode-only)
+![LeetCode Stats](https://leetcard.jacoblin.cool/amankumar3927828?ext=contest)
 
 
 ---
