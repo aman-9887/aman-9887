@@ -42,27 +42,17 @@
 
 ---
 
-## 📊 GitHub Analytics  
-<p align="center">Light / Dark theme adjusts automatically</p>
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<!-- LIGHT MODE -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=aman-9887&show_icons=true&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=1d1d1f#gh-light-mode-only" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-9887&theme=default&hide_border=true#gh-light-mode-only" />
-
-<!-- DARK MODE -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=aman-9887&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-9887&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
-
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=aman-9887&show_icons=true&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=1d1d1f"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-9887&theme=default&hide_border=true&background=f5f5f7&stroke=1d1d1f&ring=1d1d1f&fire=1d1d1f&currStreakLabel=1d1d1f"/>
 </p>
 
 <p align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-9887&layout=compact&theme=default&hide_border=true#gh-light-mode-only" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-9887&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
-
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-9887&layout=compact&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=1d1d1f"/>
 </p>
+
 
 ---
 
