@@ -44,10 +44,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-9887&show_icons=true&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=1d1d1f)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aman-9887&show_icons=true&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=1d1d1f)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-9887&layout=compact&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=1d1d1f)
-
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aman-9887&layout=compact&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=1d1d1f)
 
 
 ---
