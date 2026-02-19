@@ -71,13 +71,12 @@
 <p align="center">
 
 <!-- LIGHT MODE -->
-<img src="https://leetcard.jacoblin.cool/amankumar3927828?theme=light&font=Inter#gh-light-mode-only" />
+![LeetCode Stats](https://leetcard.jacoblin.cool/amankumar3927828?theme=light&font=Inter#gh-light-mode-only)
 
 <!-- DARK MODE -->
-<img src="https://leetcard.jacoblin.cool/amankumar3927828?theme=dark&font=Inter#gh-dark-mode-only" />
+![LeetCode Stats](https://leetcard.jacoblin.cool/amankumar3927828?theme=dark&font=Inter#gh-dark-mode-only)
 
 </p>
-
 
 ---
 
