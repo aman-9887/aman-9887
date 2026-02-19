@@ -18,7 +18,7 @@
 ## 📄 Resume
 
 <p align="center">
-<a href="YOUR_RESUME_LINK" download>
+<a href="https://raw.githubusercontent.com/aman-9887/aman-9887/bdde467fee955cf7b0854deb0a9c427d586b8f38/Aman_Thakur_Resume2.pdf" target="_blank">
 <img src="https://img.shields.io/badge/Download%20Resume-1d1d1f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
 </p>
