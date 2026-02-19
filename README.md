@@ -106,23 +106,9 @@ Explore my projects, skills and development journey in detail.
 
 ## 🤝 Connect With Me
 
-<p align="center">
-
-<a href="mailto:amankumar3927828@gmail.com">
-<img src="https://img.shields.io/badge/Email-1d1d1f?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/aman-thakur-21a980230">
-<img src="https://img.shields.io/badge/LinkedIn-1d1d1f?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-e5e5ea?style=for-the-badge&logo=safari&logoColor=1d1d1f" />
-
-</p>
+| Email | LinkedIn | Portfolio |
+|------|---------|----------|
+| <a href="mailto:amankumar3927828@gmail.com"><img src="https://img.shields.io/badge/Email-1d1d1f?style=for-the-badge&logo=gmail&logoColor=white"></a> | <a href="https://www.linkedin.com/in/aman-thakur-21a980230"><img src="https://img.shields.io/badge/LinkedIn-1d1d1f?style=for-the-badge&logo=linkedin&logoColor=white"></a> | <img src="https://img.shields.io/badge/Coming%20Soon-e5e5ea?style=for-the-badge&logo=safari&logoColor=1d1d1f"> |
 
 
 ---
