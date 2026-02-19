@@ -42,16 +42,12 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=aman-9887&show_icons=true&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=1d1d1f"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-9887&theme=default&hide_border=true&background=f5f5f7&stroke=1d1d1f&ring=1d1d1f&fire=1d1d1f&currStreakLabel=1d1d1f"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-9887&show_icons=true&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=1d1d1f)
 
-<p align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-9887&layout=compact&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=1d1d1f"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-9887&layout=compact&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=1d1d1f)
+
 
 
 ---
