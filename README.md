@@ -68,7 +68,7 @@
 
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/amankumar3927828?ext=contest)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=amankumar3927828&theme=dark)
 
 
 ---
