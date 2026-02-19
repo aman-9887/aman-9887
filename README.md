@@ -58,11 +58,6 @@ Profile Visitors<br>
 
 ---
 
-## 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=aman-9887&theme=flat&no-frame=true&row=1&column=7"/>
-
----
 
 ## 📈 Contribution Activity
 
@@ -70,9 +65,9 @@ Profile Visitors<br>
 
 ---
 
-## 🧠 LeetCode Stats
+## 🧠 Problem Solving
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=amankumar3927828&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/amankumar3927828?theme=nord&font=Inter&border=0)
 
 ---
 
