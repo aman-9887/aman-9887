@@ -37,16 +37,21 @@ Profile Visitors<br>
 ## 🧩 Tech Stack
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=java,js,python&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,js&theme=light" />
 
 **Web Technologies**  
-<img src="https://skillicons.dev/icons?i=html,css,nodejs,express&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=light" />
 
 **Databases**  
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" />
 
 **Tools**  
-<img src="https://skillicons.dev/icons?i=github,vscode,vercel,render&theme=light" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,redux,vercel,render&theme=light" />
+
+**Integrations**  
+- Stripe  
+- Cloudinary  
+- Mailtrap
 
 ---
 
